@@ -1,0 +1,86 @@
+{
+  "1": {
+    "empId": 1,
+    "ssn": 111111111,
+    "email": "tomwall@colla.com",
+    "jobTitle": "Java",
+    "dept": "DEVELOPER",
+    "salary": 1111.0,
+    "reportTo": 4,
+    "isManager": false,
+    "name": "Tom Wall",
+    "age": 18,
+    "gender": "MALE",
+    "contactNo": 1212121212,
+    "address": {
+      "streetAddress": "30 FarView",
+      "city": "Vado",
+      "state": "New Jersey",
+      "country": "USA",
+      "zipCode": 25219
+    }
+  },
+  "2": {
+    "empId": 2,
+    "ssn": 222222222,
+    "email": "braddaniel@colla.com",
+    "jobTitle": "Spring",
+    "dept": "DEVELOPER",
+    "salary": 2222.0,
+    "reportTo": 5,
+    "isManager": false,
+    "name": "Brad Daniel",
+    "age": 22,
+    "gender": "MALE",
+    "contactNo": 1010101010,
+    "address": {
+      "streetAddress": "109 Walgreen",
+      "city": "Sear",
+      "state": "New York",
+      "country": "USA",
+      "zipCode": 35055
+    }
+  },
+  "3": {
+    "empId": 3,
+    "ssn": 333333333,
+    "email": "tarrywilliam@colla.com",
+    "jobTitle": "Sales Head",
+    "dept": "SALES",
+    "salary": 2121.0,
+    "reportTo": 4,
+    "isManager": false,
+    "name": "Tarry William",
+    "age": 20,
+    "gender": "MALE",
+    "contactNo": 1090909090,
+    "address": {
+      "streetAddress": "46 Pierson",
+      "city": "Ena",
+      "state": "California",
+      "country": "USA",
+      "zipCode": 12321
+    }
+  },
+  "6": {
+    "empId": 6,
+    "ssn": 121234567,
+    "email": "barryeast@colla.com",
+    "jobTitle": "React JS Devs",
+    "dept": "HR",
+    "salary": 213.0,
+    "reportTo": 5,
+    "isManager": false,
+    "name": "Barry East",
+    "age": 23,
+    "gender": "MALE",
+    "contactNo": 1212121245,
+    "address": {
+      "streetAddress": "143 Outlaw St",
+      "city": "Norcom",
+      "state": "Massachusetts",
+      "country": "USA",
+      "zipCode": 90908
+    }
+  }
+}
