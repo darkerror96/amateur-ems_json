@@ -3,10 +3,10 @@ UseCase: - An Employee Management System is designed to simplify the process of 
 
 Employee Management System as a Java Application using Spring Tool Suite 4 as an IDE.
 
-Simple Java Application to understand Basic OOP concepts viz Inheritance, Polymorphism, Serializable, etc.
+Simple Java Application to understand Basic OOP concepts viz Inheritance, Polymorphism, etc.
 
-For all beginners, this is perfect repository to start-off with a java application describing Employee Management System in simple manner. I have used Serializable concept for data persistence. I have used Spring Tool Suite 4 as an IDE.
+For all beginners, this is perfect repository to start-off with a java application describing Employee Management System in simple manner. I have used GSON Library for converting Employee and Manager Java Object to JSON format and vice versa for data persistency. I have used Spring Tool Suite 4 as an IDE.
 
-For testing the application, you have to run the application on console/terminal. On the console/terminal, you will be asked to select choices to manage the Employees and Managers. I have added basic functionalities for managing the Employee viz. Create, Search, Update, Delete, Print Employee, Print Manager's Team, Save the current state, etc.
+For testing the application, you have to run the application on console/terminal. On the console/terminal, you will be asked to select choices to manage the Employees and Managers. I have added basic functionalities for managing the Employee viz. Create, Search, Update, Delete, Print Employee, Print Manager's Team, Save the current state in JSON format, etc.
 
-NOTE: - Files are already initialized with unreal Employees and Managers Details.
+NOTE: - JSON Files are already initialized with unreal Employees and Managers Details.
